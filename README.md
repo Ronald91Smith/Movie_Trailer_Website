@@ -1,24 +1,21 @@
 # Movie_Trailer_Website
 
-Begin by downloading the Movie_Trailer_Website zip file
+Go to the green button (Clone or download) and download the Movie_Trailer_Website zip file
 
 
-Extract the Movie_Trailer_Website folder from zip file
+Extract the Movie_Trailer_Website folder from the downloaded zip file
 
 
-To open these files you need to have "Python" installed
+You need to have "Python" installed in order to open the files
 
 
-Follow this link to download "https://www.python.org/downloads/"
+Follow this link to download python: "https://www.python.org/downloads/"
 
+Once downloaded follow the instructions to install
 
-Once downloaded click the icon and follow the instructions to install
+ python
+Once installed click on "entertainment_center.py" to open the Movie_Trailer_Website
 
-
-Once installed click on "entertainment_center.py" to open completed project
-
-
-You can open "py" file types in "Idle" to read and edit codes on your desktop
-
+You can open ".py" files in "Idle" to read and edit the code
 
 This concludes the README
