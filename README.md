@@ -13,8 +13,8 @@ Follow this link to download python: "https://www.python.org/downloads/"
 
 Once you've completed the download follow the instructions to install
 
- python
-After installing python click on "entertainment_center.py" to open the Movie_Trailer_Website
+
+After installing click on "entertainment_center.py" to open the Movie_Trailer_Website
 
 You can open ".py" files in "Idle" to read and edit the code
 
