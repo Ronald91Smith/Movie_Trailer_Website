@@ -18,4 +18,4 @@ After installing click on "entertainment_center.py" to open the Movie_Trailer_We
 
 You can open ".py" files in "Idle" to read and edit the code
 
-This concludes the README
+Thank you for using the README!
